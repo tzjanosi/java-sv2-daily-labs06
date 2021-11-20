@@ -1,5 +1,4 @@
 package day04.hangman;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class HangmanMain {
